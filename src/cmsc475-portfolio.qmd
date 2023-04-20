@@ -1,0 +1,23 @@
+---
+title: "CMSC 475 - Portfolio"
+date: last-modified
+---
+
+Below are samples of my work in CMSC 475.  Well, actually, I'm using links from students in the class to demonstrate what a sample portfolio might look like!
+
+### Figma prototype
+
+<https://www.figma.com/file/gJMIMdrY7fUR61cXuvtHAA/HW4-Prototype?t=5oRNuCIsHvlRVukA-1>{.figma}
+
+### Mobile app video
+
+<https://drive.google.com/file/d/1is_SDH1SYtBy1gP0B_6S-ixRL8F-nB9s/view?usp=sharing>{.video}
+
+### P5JS Sketches
+
+<https://editor.p5js.org/krxniks/sketches/vXIsXuuM_>{.sketch1}
+
+<https://editor.p5js.org/krxniks/sketches/4R5ZgwLLf>{.sketch2}
+
+<https://editor.p5js.org/krxniks/sketches/YoOUpIh59>{.sketch3}
+
